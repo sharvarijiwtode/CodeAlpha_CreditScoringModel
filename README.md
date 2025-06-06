@@ -1,4 +1,4 @@
-# CodeAlpha_CreditScoringModel
+CreditScoringModel
 
 ## Project: Credit Scoring Prediction
 
