@@ -36,3 +36,7 @@ Install the required libraries:
 
 bash
 !pip install pandas scikit-learn matplotlib seaborn
+
+## Run the code
+
+python credit_scoring_model.py
